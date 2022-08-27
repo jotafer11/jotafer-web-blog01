@@ -4,6 +4,15 @@ sidebar: auto
 
 # Menu
 
+## Gridsome
+
+1. ejecutar
+```
+gridsome build
+```
+
+2. se generara carpeta con archivos para subir
+
 
 ## Netlify
 
